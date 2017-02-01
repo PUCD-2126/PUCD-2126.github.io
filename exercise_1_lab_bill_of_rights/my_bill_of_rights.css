@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 h1 {
 margin: 0px auto;
 max-width: 1000px;
@@ -49,4 +50,40 @@ body {
   ; }
   50% { filter: hue-rotate(180deg); }
   100% { filter: hue-rotate(359deg); }
+=======
+body{
+  background-color:#033556;
+}
+
+h1{
+  font-family: Verdana, san-serif;
+  font-size: 80px;color:white;
+  font-color
+	font-weight: thick, outline;
+	text-align: center;
+  border: 15px solid coral;
+  animation: border 5s infinite;
+}
+@keyframes border {
+    35% {border-color: lightblue;}
+    75% {border-color: #cc2484;}
+}
+h2{
+  font-family: baskerville;
+  font-size: 30px;color:white;
+  text-align: center;
+}
+p{
+  font-family: verdana;
+  margin: 70px;color:white;
+  font-size: 15px;
+}
+ol{
+  font-family: verenda;
+  font-size:30px;color: #f4d4f4;
+  border-style: inset;
+  border-width: 5px;
+  border-color: #dbbcd4;
+  margin: 40px;
+>>>>>>> Stashed changes
 }
