@@ -1,11 +1,34 @@
 [
   {
 <<<<<<< HEAD
+<<<<<<< HEAD
     name: "sonja briney",
     handle: "sonjabriney"
-=======
+},
+  {
     name: "Jessica Dantas",
     handle: "jessica-dantas"
+},
+  {
+    name: "isabella",
+    handle: "wangx733"
+  },
+  {
+    name: "Andy Yang",
+    handle: "didehdro4"
+  },
+  {
+    name: "Jo",
+    handle: "jhoenny"
+  },
+  {
+    name: "Jo",
+    handle: "jhoenny"
+   },
+   {
+    name: "Jessica Dantas",
+    handle: "jessica-dantas"
+
 >>>>>>> origin/master
   },
 ]
