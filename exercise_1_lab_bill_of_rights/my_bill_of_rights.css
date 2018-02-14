@@ -1,6 +1,5 @@
 body {
   background-image: url(http://www.americanrestaurantequip.com/wp-content/uploads/waving-american-usa-flag-pattern-background-design.png);
-  background-repeat: repeat-y;
   background-size: 5%;
   background-color: black;
   width: 80em;
@@ -27,9 +26,9 @@ h1 {
 }
 
 p {
-  position: absolute;
+  position: static;
 }
 
 .relative {
-  position: absolute; 
+  position: static; 
 }
