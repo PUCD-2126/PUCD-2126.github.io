@@ -1,10 +1,41 @@
 [
   {
-    name: "Emily Baro",
-    handle: "emilybaro"
-  },
-  {
   	name: "Emily Baro";
   	handle: "emilybaro"
+  },
+  {
+    name: "Cindy",
+    handle: "cindyyshi"
+   },
+   {
+    name: "sonja briney",
+    handle: "sonjabriney"
+  },
+  {
+    name: "Jessica Dantas",
+    handle: "jessica-dantas"
+
+    name: "bea",
+    handle: "BeatriceDamico"
+  },
+  {
+    name: "isabella",
+    handle: "wangx733"
+  },
+  {
+    name: "Andy Yang",
+    handle: "didehdro4"
+  },
+  {
+    name: "Jo",
+    handle: "jhoenny"
+  },
+  {
+    name: "Jo",
+    handle: "jhoenny"
+   },
+   {
+    name: "Jessica Dantas",
+    handle: "jessica-dantas"
   },
 ]
