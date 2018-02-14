@@ -1,6 +1,13 @@
 [
-  {
+ {
+  HEAD
     name: "Kyle Palma",
     handle: "KylePalma"
+ },
+ {
+    name: "Jessica Dantas",
+    handle: "jessica-dantas"
+  },
+	 origin/master
   },
 ]
