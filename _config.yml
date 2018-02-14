@@ -24,6 +24,8 @@ urls:
       url: /students/
     - text: Github
       url: https://github.com/PUCD-2126
+    - text: Poem
+      url: /week-2-poem/
 
 url: "https://pucd-2126.github.io"
 baseurl: ""
