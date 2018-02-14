@@ -1,68 +1,68 @@
 
 [
  {
-    name: "Kyle Palma",
-    handle: "KylePalma"
+    "name": "Kyle Palma",
+    "handle": "KylePalma"
  },
  {
-    name: "bea",
-    handle: "BeatriceDamico"
+    "name": "bea",
+    "handle": "BeatriceDamico"
  },
 
 	{
-		name:"Kamal Adisa",
-		handle: "adisk402"
+		"name":"Kamal Adisa",
+		"handle": "adisk402"
 	},
   {
-  	name: "Emily Baro";
-  	handle: "emilybaro"
+  	"name": "Emily Baro",
+  	"handle": "emilybaro"
   },
   {
-    name: "Yehia Abouseif",
-    handle: "yehiaabouseif"
+    "name": "Yehia Abouseif",
+    "handle": "yehiaabouseif"
  },
    {
-    name: "Cindy",
-    handle: "cindyyshi"
+    "name": "Cindy",
+    "handle": "cindyyshi"
    },
    {
-    name: "sonja briney",
-    handle: "sonjabriney"
+    "name": "sonja briney",
+    "handle": "sonjabriney"
   },
   {
-    name: "Alicia Lee",
-    handle: "leea817"
+    "name": "Alicia Lee",
+    "handle": "leea817"
 }, {
-    name: "Jessica Dantas",
-    handle: "jessica-dantas"
+    "name": "Jessica Dantas",
+    "handle": "jessica-dantas"
 },
 {
-    name: "Jessica Dantas",
-    handle: "jessica-dantas"
+    "name": "Jessica Dantas",
+    "handle": "jessica-dantas"
   },
   {
-    name: "bea",
-    handle: "BeatriceDamico"
+    "name": "bea",
+    "handle": "BeatriceDamico"
 },
    {
-    name: "isabella",
-    handle: "wangx733"
+    "name": "isabella",
+    "handle": "wangx733"
   },
   {
-    name: "Andy Yang",
-    handle: "didehdro4"
+    "name": "Andy Yang",
+    "handle": "didehdro4"
   },
   {
-    name: "Jo",
-    handle: "jhoenny"
+    "name": "Jo",
+    "handle": "jhoenny"
   },
   {
-    name: "Jo",
-    handle: "jhoenny"
+    "name": "Jo",
+    "handle": "jhoenny"
    },
    {
-    name: "Jessica Dantas",
-    handle: "jessica-dantas"
-  },
+    "name": "Jessica Dantas",
+    "handle": "jessica-dantas"
+  }
 ]
 
