@@ -1,4 +1,9 @@
-[
+
+	{
+		name:"Kamal Adisa",
+		handle: "adisk402"
+	},
+
   {
 
     name: "Yehia Abouseif",
@@ -39,4 +44,5 @@
     name: "Jessica Dantas",
     handle: "jessica-dantas"
   },
-]
+
+
