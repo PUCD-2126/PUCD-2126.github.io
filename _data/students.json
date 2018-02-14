@@ -5,7 +5,10 @@
 	},
 
   {
-
+  	name: "Emily Baro";
+  	handle: "emilybaro"
+  },
+  {
     name: "Yehia Abouseif",
     handle: "yehiaabouseif"
  },
