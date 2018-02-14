@@ -1,4 +1,22 @@
-[
+
+	{
+		name:"Kamal Adisa",
+		handle: "adisk402"
+	},
+
+  {
+
+    name: "Yehia Abouseif",
+    handle: "yehiaabouseif"
+ },
+   {
+    name: "Cindy",
+    handle: "cindyyshi"
+   },
+   {
+    name: "sonja briney",
+    handle: "sonjabriney"
+  },
   {
     name: "Alicia Lee",
     handle: "leea817"
@@ -7,6 +25,13 @@
     handle: "jessica-dantas"
 },
 {
+    name: "Jessica Dantas",
+    handle: "jessica-dantas"
+
+    name: "bea",
+    handle: "BeatriceDamico"
+},
+   {
     name: "isabella",
     handle: "wangx733"
   },
@@ -26,4 +51,5 @@
     name: "Jessica Dantas",
     handle: "jessica-dantas"
   },
-]
+
+
