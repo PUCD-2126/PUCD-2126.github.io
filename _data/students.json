@@ -1,6 +1,11 @@
 [
   {
+<<<<<<< HEAD
     name: "Alicia Lee",
     handle: "leea817"
+=======
+    name: "Jessica Dantas",
+    handle: "jessica-dantas"
+>>>>>>> origin/master
   },
 ]
