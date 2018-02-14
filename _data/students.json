@@ -1,11 +1,23 @@
 [
   {
-<<<<<<< HEAD
+
     name: "shreya",
     handle: "shahs880"
-=======
+},
+
+{
+    name: "Andy Yang",
+    handle: "didehdro4"
+  },
+
+  {
+    name: "Jo",
+    handle: "jhoenny"
+   },
+   {
     name: "Jessica Dantas",
     handle: "jessica-dantas"
->>>>>>> origin/master
+
+
   },
 ]
