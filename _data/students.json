@@ -13,7 +13,10 @@
 		name:"Kamal Adisa",
 		handle: "adisk402"
 	},
-
+  {
+  	name: "Emily Baro";
+  	handle: "emilybaro"
+  },
   {
     name: "Yehia Abouseif",
     handle: "yehiaabouseif"
