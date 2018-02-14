@@ -1,9 +1,18 @@
 
+[
+ {
+    name: "Kyle Palma",
+    handle: "KylePalma"
+ },
+ {
+    name: "bea",
+    handle: "BeatriceDamico"
+ },
+
 	{
 		name:"Kamal Adisa",
 		handle: "adisk402"
 	},
-
   {
   	name: "Emily Baro";
   	handle: "emilybaro"
@@ -23,7 +32,8 @@
   {
     name: "Jessica Dantas",
     handle: "jessica-dantas"
-
+  },
+  {
     name: "bea",
     handle: "BeatriceDamico"
 },
