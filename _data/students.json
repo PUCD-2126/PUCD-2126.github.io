@@ -1,5 +1,10 @@
 [
   {
+
+    name: "Yehia Abouseif",
+    handle: "yehiaabouseif"
+ },
+   {
     name: "Cindy",
     handle: "cindyyshi"
    },
@@ -13,8 +18,8 @@
 
     name: "bea",
     handle: "BeatriceDamico"
-  },
-  {
+},
+   {
     name: "isabella",
     handle: "wangx733"
   },
