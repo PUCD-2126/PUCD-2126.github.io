@@ -1,0 +1,54 @@
+body {
+  color: #FFF;
+}
+
+.container {
+  background-image: url(http://www.sturesearch.ch/wp-content/uploads/Sea-stack-and-mount-Taranaki-New-Zealand-1024x768.jpg);
+  background-repeat: no-repeat;
+  width: 1024px;
+  height: 770px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.auckland-logo {
+  width: 150px;
+}
+
+.content {
+  position: absolute;
+  bottom: 0;
+  padding: 0 3em 0 3em;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.ad-title {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 200;
+  font-size: 300%;
+  letter-spacing: .1em;
+  float: left;
+  width: 370px;
+  margin: 0;
+}
+
+.ad-copy-container {
+  float: right;
+}
+
+.ad-top-paragraph {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 75%;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  width: 220px;
+}
+
+.ad-bottom-paragraph {
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 200;
+  font-size: 90%;
+  width: 270px;
+}
