@@ -1,0 +1,67 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+.container {
+  position: relative;
+}
+
+.splash {
+  background-image: url(https://images.unsplash.com/photo-1505441213084-5a6287bd2042?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=ad8ee9be94a9e4ef44f89147d648fd7e&auto=format&fit=crop&w=2850&q=80);
+  background-size: cover;
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  height: 100%;
+  padding-top: 15%;
+  overflow: hidden;
+}
+
+.splash::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-image: linear-gradient(to bottom right, #002f4b, #dc4225);
+  opacity: 0.6;
+}
+
+.intro-container h1, 
+.intro-container p {
+  font-family: 'Dosis', sans-serif;
+  color: rgb(255, 255, 255);
+}
+
+.blurb {
+  margin-bottom: 2em;
+}
+
+.occupation {
+  font-family: 'Kanit', sans-serif;
+  font-size: 70%;
+  display: inline-block;
+  color: rgb(238, 253, 102);
+  margin-left: .5em;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  border-bottom: #e82559 solid 1px;
+}
+
+.email-link {
+  background-color: #e82559;
+  border-radius: 25px;
+  padding: 10px 15px;
+  display: inline-block;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.profile-image {
+  float: left;
+  margin-top: 1em;
+  margin-right: 2em;
+}
