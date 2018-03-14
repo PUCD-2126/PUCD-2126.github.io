@@ -7,7 +7,7 @@ ul { list-style-type: none; }
   animation-fill-mode: both;
 }
 
-.bounce {
+.shake {
   font-family: 'Open Sans';
   font-size: 4em;
   color: #00789d;
